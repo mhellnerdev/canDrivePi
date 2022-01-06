@@ -1,3 +1,7 @@
+# About
+## canDrive codebase from @adamtheone. This is for interfacing an Arduino with the ECU of your vehicle. This is a forked version that was ported to run on Raspberry Pi Raspbian connected to an Arduino UNO and CanBus Shield.
+
+
 # canDrive
 Tools for hacking your car. Please concider checking out the tutorials made about this project:
 https://www.youtube.com/playlist?list=PLNiFaO8hU1z0o_6DSxk-jcVAM3UCUR-pY
